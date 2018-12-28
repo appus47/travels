@@ -1,5 +1,5 @@
 #titlecs {
-    -webkit-text-fill-color: rgb(0, 153, 255) !important;
+    -webkit-text-fill-color: rgb(255, 255, 255) !important;
     /* -webkit-text-stroke-width: 3px; */
     /* -webkit-text-stroke-color: rgb(0, 174, 255) !important; */
 }
@@ -9,16 +9,16 @@
 }
 
 .navbar-default {
-    background-color: #ffffff !important;
+    background-color: #ffffff00 !important;
     -webkit-text-fill-color: #03b3f83d !important;
 }
 
 .navbar-nav>li>a {
-    border: 1px solid rgb(0, 153, 255);
+    border: 1px solid rgba(253, 254, 255, 0.774);
     border-radius: 5px;
     border-top-style: hidden;
     border-bottom-style: hidden;
-    -webkit-text-fill-color: rgb(0, 153, 255) !important;
+    -webkit-text-fill-color: rgb(255, 255, 255) !important;
     background-color: #ffffff28 !important;
 }
 
@@ -60,7 +60,7 @@
     justify-content: unsafe !important;
 } */
 
-.navbar .navbar-default .navbar-fixed-top {
+.navbar .navbar-default {
     display: -webkit-flex !important;
     justify-content: flex-start !important;
 }
