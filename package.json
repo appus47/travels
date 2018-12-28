@@ -12,5 +12,14 @@
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
     "path": "^0.12.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appus47/travels.git"
+  },
+  "bugs": {
+    "url": "https://github.com/appus47/travels/issues"
+  },
+  "homepage": "https://github.com/appus47/travels#readme"
 }
